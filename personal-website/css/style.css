@@ -1,0 +1,86 @@
+
+.home-page{
+    border:1px solid red;
+}
+.page-content{
+    width: auto;
+    min-height: 100%;
+}
+
+.ele-border{
+    border:4px solid red;
+}
+.form-horizontal{
+    align-items: center;
+}
+.contact-page-content{
+    margin-left: 20%;
+}
+.profile-pic{
+    object-fit: contain;
+    max-width: 100%;
+}
+.proffession-label{
+    font-weight:600;
+}
+.home-page-prof{
+    
+    margin-top: 2%;
+}
+.font-footer{
+    font-size: initial;
+    color: #fff;
+    
+    
+}
+.contact-info{
+    margin-left: 40%;
+}
+
+
+footer{
+    margin-bottom: 0;
+}
+.prof-pic-div, .portfolio-work{
+    border-left: 5px #007bff  solid;
+    padding-left: 2%;
+    
+}
+
+.portfile-header{
+    margin-bottom: 5px;
+}
+/* Extra small  devices(phones)*/
+  @media (max-width: 600px) {
+    .prof-pic-div {
+        border-left: 0px #007bff  solid;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+         scroll-margin-top: 100px;
+        width: 90px;
+        height: inherit;
+        border-left: 0px #007bff  solid;
+      }
+  }
+  /* small devies(portrait tablets)*/
+  @media (min-width: 600px) {
+    
+  }
+  /*medium devices landscape*/
+  @media (min-width: 768px) {
+    
+  }
+  /*large devices (laptops)*/
+  @media (min-width: 992px) {
+    
+  }
+  .main-menu{
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /*  */
+  code{
+    color: #343a40;
+    font-weight: 200;
+  }
