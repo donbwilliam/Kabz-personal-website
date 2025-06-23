@@ -17,13 +17,16 @@ nav a {
 }
 
 main {
-  background: #fff;
+  background: linear-gradient(135deg, #ffffff, #e0f7fa);
+  background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
+  background-repeat: repeat;
   padding: 2rem;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  box-shadow: 0 0 20px rgba(0, 123, 204, 0.15);
   display: inline-block;
   max-width: 600px;
   margin: auto;
+  border: 1px solid #d0e7ff;
 }
 
 img {
