@@ -22,11 +22,11 @@ main {
   background-repeat: repeat;
   padding: 2rem;
   border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0, 123, 204, 0.15);
+  box-shadow: 0 0 20px rgba(0, 204, 34, 0.637);
   display: inline-block;
   max-width: 600px;
   margin: auto;
-  border: 1px solid #d0e7ff;
+  border: 1px solid #d0e1ff9d;
 }
 
 img {
